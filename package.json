@@ -1,0 +1,21 @@
+{
+  "name": "request_js",
+  "version": "1.0.13",
+  "description": "Tiny module for networking",
+  "main": "lib/network.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VladimirGorin/request_js"
+  },
+  "keywords": [
+    "network",
+    "tiny",
+    "request"
+  ],
+  "author": "VladimirGorin",
+  "license": "ISC",
+  "homepage": "https://github.com/VladimirGorin/request_js"
+}
