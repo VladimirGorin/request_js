@@ -1,6 +1,6 @@
 Tiny module for http requests with no dependencies
 
-## Install
+##  Install
 npm install tiny_request
 
 ## Simple to use
